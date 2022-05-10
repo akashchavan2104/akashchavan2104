@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @akashchavan2104
-- 👀 I’m interested in coding & electronics
-- 🌱 I’m currently learning Raspberry pi 
-- 💞️ I’m looking to collaborate on Python projects
+- 👋 Hi, I’m Akash Chavan.
+- 💡 I'm pursuing Engineering at College of Engineering Pune.
+- ⚙️ I’m passionate about learning Energent technologies.
+- 📈 I’m good in handling & visualising data + Python programming + ML algorithms.
+- 🔮 I want to become a Data Scientist / DL Engineer.
 - 📫 How to reach me - akashchavan2104@gmail.com 
 
 <!---
