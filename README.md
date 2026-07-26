@@ -1,8 +1,8 @@
 <h1 align="center">Akash Madhav Chavan</h1>
 
 <p align="center">
-  <b>Electrical &amp; Electronics Integration Engineer</b> · Automotive R&amp;D<br>
-  Assistant Manager — EE Integration, <a href="https://www.bajajauto.com/">Bajaj Auto Ltd</a> · Pune, India
+  <b>Electrical &amp; Electronics Integration Engineer</b><br>
+  Assistant Manager (EE Vehicle Integration), <a href="https://www.bajajauto.com/">Bajaj Auto Ltd</a> · Pune, India
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@
 
 ## About
 
-I work on vehicle electrical &amp; electronics integration in automotive R&D — translating market and regulatory requirements into electrical architecture, driving them through cross-functional execution (concept design, vendors, plant, test &amp; validation), and closing the loop through homologation, end-of-line setup and batch builds.
+I'm an automotive engineer translating market and regulatory requirements into electrical architecture, driving them through cross-functional execution (concept design, vendors, plant, test &amp; validation), and closing the loop through homologation, end-of-line setup and batch builds.
 
-Alongside that, I build internal engineering tools and data products: simulators, diagnostics utilities and automation pipelines that shorten the distance between an engineering question and its answer.
+Alongside that, I build internal engineering tools and data products :- simulators, diagnostics utilities and automation pipelines that shorten the distance between an engineering question and its answer.
 
 **B.Tech, College of Engineering Pune (COEP), 2023.**
 
@@ -28,12 +28,11 @@ Alongside that, I build internal engineering tools and data products: simulators
 
 | Domain | What I do |
 |---|---|
-| **EE Integration** | Vehicle electrical architecture, wiring harness &amp; component integration, EMRF interpretation |
-| **Diagnostics &amp; Networks** | CAN bus analysis, UDS diagnostics, BUSmaster log decoding |
-| **Homologation &amp; Compliance** | Regulatory research, AIS / UNECE / EU directive mapping, WVTA submissions |
-| **Manufacturing Readiness** | End-of-line (EOL) test setup, batch build support, plant coordination |
-| **Engineering Software** | Internal simulators, dashboards, automation pipelines, technical documentation systems |
-| **Applied ML / CV** | Computer vision, regression modelling, data analysis |
+| **EE Integration** | Vehicle electrical architecture, Wiring harness design, Component integration
+| **Diagnostics &amp; Networks** | Log analysis, UDS diagnostics
+| **Homologation &amp; Compliance** | Regulatory research, AIS / UNECE / EU directive mapping
+| **Engineering Software** | Internal simulators, Dashboards, Automation pipelines, Technical documentation systems
+| **ML &amp; AI** | Computer vision, NLP, Data analysis, Vibe coding, Deploying AI agents
 
 ---
 
@@ -66,26 +65,11 @@ Alongside that, I build internal engineering tools and data products: simulators
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
----
-
-## Selected Projects
-
-| Project | Summary | Stack |
-|---|---|---|
-| **[Tracker-App](https://github.com/akashchavan2104/Tracker-App)** | Installable PWA that tracks a job search end to end, with a scheduled scraping pipeline that refreshes listings automatically | JavaScript · Python · GitHub Actions · Apify |
-| **[Condition Monitoring of EV Battery using IoT](https://github.com/akashchavan2104/Condition-Monitoring-of-Battery-in-EV-using-IOT)** | IoT-based battery health monitoring system for electric vehicles — award-recognised final year project | IoT · Embedded · Sensors |
-| **[Mutism Sign Detection](https://github.com/akashchavan2104/Mutism_Sign_Detection)** | Real-time sign language recognition to assist non-verbal communication, classifying hand gestures from a live camera feed | Python · OpenCV · cvzone · TensorFlow/Keras |
-| **[House Price Prediction](https://github.com/akashchavan2104/House_Price_Prediction)** | End-to-end regression model served through a backend API with a browser client | Python · scikit-learn · Jupyter · Flask |
-| **[Filter Implementation with OpenCV](https://github.com/akashchavan2104/Filter_Implementation_OpenCV)** | Real-time camera pipeline with switchable blur, Canny edge and DNN face-detection modes | Python · OpenCV · DNN |
-| **[Portfolio](https://github.com/akashchavan2104/Portfolio)** | Personal portfolio site — [live](https://akashchavan2104.github.io/Portfolio/) | HTML · CSS · JavaScript |
-
----
-
 ## Currently
 
 - Building internal engineering tooling for EE integration workflows
 - Deepening CAN / UDS diagnostics and vehicle network architecture
-- Working with React + TypeScript for engineering-facing web applications
+- Experimenting capabilities of Claude Fable 5
 
 ---
 
