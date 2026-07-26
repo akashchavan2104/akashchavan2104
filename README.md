@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Electrical &amp; Electronics Integration Engineer</b><br>
-  Assistant Manager (EE Vehicle Integration), <a href="https://www.bajajauto.com/">Bajaj Auto Ltd</a> · Pune, India
+  Assistant Manager, <a href="https://www.bajajauto.com/">Bajaj Auto Ltd</a> · Pune, India
 </p>
 
 <p align="center">
