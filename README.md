@@ -16,7 +16,7 @@
 
 ## About
 
-I'm an automotive engineer translating market and regulatory requirements into electrical architecture, driving them through cross-functional execution (concept design, vendors, plant, test &amp; validation), and closing the loop through homologation, end-of-line setup and batch builds.
+I'm an automotive engineer responsible for translating market and regulatory requirements into electrical architecture, driving them through cross-functional execution (concept design, vendors, plant, test &amp; validation), and closing the loop through homologation, end-of-line setup and batch builds.
 
 Alongside that, I build internal engineering tools and data products :- simulators, diagnostics utilities and automation pipelines that shorten the distance between an engineering question and its answer.
 
